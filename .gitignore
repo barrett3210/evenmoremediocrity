@@ -7,3 +7,6 @@ Gemfile.lock
 .bundle
 .vendor/bundle
 .garbage
+/garbage
+/.bundle/
+/vendor/bundle
