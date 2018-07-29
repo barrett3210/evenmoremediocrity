@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dragonfly
-feature-img: "assets/img/pexels/AnotherDragonfly2.jpg"
+image: "pexels/AnotherDragonfly2.jpg"
 thumbnail: "assets/img/thumbnails/AnotherDragonfly3.jpg"
 tags: []
 ---
